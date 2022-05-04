@@ -12,7 +12,7 @@ export default function Product({ productId, title }) {
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />
         <meta name="og:site_name" property="og:site_name" content="kampd.com" />
-        <meta name="og:url" property="og:url" content="https://kampd.com" />
+        <meta name="og:url" property="og:url" content="https://www.kampd.com" />
         <meta property="og:image" content={`/product${productId}.png`} />
         <meta
           property="og:image:secure_url"
